@@ -1,0 +1,25 @@
+
+# Local SQLite databases
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.log
+~$*
+*.pbix.bak
+
+# Local environment settings
+.env
+.env.*
+*.dsn
+
+# Original starter archive
+creator_sourcing_automation_starter*.zip
+
+# Public benchmark datasets pending licence review
+*public_creator_benchmark*.csv
+*Dexfluence*.csv
