@@ -1,15 +1,14 @@
 
-# Power BI Portfolio Screenshots
+## Power BI Dashboard Screenshots
 
-This folder contains screenshots of three report pages:
+### Commercial Analysis
 
-1. Commercial Analysis
-2. Procurement Decision
-3. Automation Test
+![Commercial Analysis](05_Screenshots/01_Commercial_Analysis.png)
 
-The portfolio demonstrates fictional influencer
-quotation analysis, procurement decision support,
-and manual Power BI refresh testing.
+### Procurement Decision
 
-The fictional quotations are in INR.
-They are not real supplier quotations or P&G data.
+![Procurement Decision](05_Screenshots/02_Procurement_Decision.png)
+
+### Automation Test
+
+![Automation Test](05_Screenshots/03_Automation_Test.png)
