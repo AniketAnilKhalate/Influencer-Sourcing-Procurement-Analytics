@@ -2,8 +2,12 @@
 # Local SQLite databases
 *.db
 *.db-journal
+*.db-wal
+*.db-shm
 *.sqlite
 *.sqlite3
+*.sqlite-wal
+*.sqlite-shm
 
 # Temporary and backup files
 *.tmp
@@ -11,6 +15,9 @@
 *.log
 ~$*
 *.pbix.bak
+*.pbit.bak
+*.xlsx.bak
+*.xls.bak
 
 # Local environment settings
 .env
