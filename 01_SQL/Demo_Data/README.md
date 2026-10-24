@@ -4,9 +4,14 @@
 This folder contains a small synthetic quotation dataset
 created for procurement analytics training.
 
+
 ## Contents
 
-fictional_creator_quotes.csv
+- `fictional_creator_quotes.csv` — Fictional quotation data
+- `fictional_creator_profiles.csv` — Fictional creator profiles and follower counts
+- `01_setup_demo_database.sql` — Creates and populates the SQLite demo tables
+- `02_verify_demo_data.sql` — Checks quotation statistics and cost efficiency
+- `README.md` — Dataset documentation and reproducibility instructions
 
 ## Data Dictionary
 
